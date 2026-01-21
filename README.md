@@ -4,4 +4,8 @@
 Latihan membuat pull request.
 
 ## YOLO Acievement
-Merge tanpa review
+Merge tanpa review.
+
+## YOLO Achievement PR Baru
+Latihan PR tanpa review.
+
