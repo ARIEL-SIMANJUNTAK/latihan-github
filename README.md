@@ -8,7 +8,3 @@ Merge tanpa review.
 
 ## YOLO Achievement PR Baru
 Latihan PR tanpa review.
-
-## pAIR eXTRAORDINAIRE
-Latihan commit dengan co-author.
-
